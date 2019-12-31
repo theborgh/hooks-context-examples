@@ -1,0 +1,7 @@
+.toggler {
+  display: flex;
+}
+
+.toggler-button {
+  margin: 0 .3rem;
+}
